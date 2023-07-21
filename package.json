@@ -13,7 +13,8 @@
     "express": "~4.16.1",
     "mongoose": "^7.4.0",
     "morgan": "~1.9.1",
-    "node-fetch": "2"
+    "node-fetch": "2",
+    "vercel": "^31.0.4"
   },
   "devDependencies": {
     "jest": "^28.1.1",
